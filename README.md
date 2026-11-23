@@ -26,10 +26,15 @@ This project demonstrates practical Linux system security and hardening concepts
 - Understanding Linux security fundamentals.
 - Learning basic Linux administration.
 - Reviewing system security configurations.
-- Practising defensive security checks.
+- Practicing defensive security checks.
 
 ## Disclaimer
 All exercises are performed on my own virtual machine for educational and defensive cybersecurity purposes.
 
 ## Author
 Cybersecurity Student
+
+## 6. Network listening port inspection
+### Command Used 
+```bash
+ss -tuln
